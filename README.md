@@ -71,20 +71,16 @@ Verified that the EC2 instance appeared as a managed node in AWS Systems Manager
 ## Screenshots
 
 ### EC2 Instance with IAM Role Attached
-
-![EC2 Instance](SCREENSHOTS/EC2-Instance.png)
+![EC2 Instance](screenshots/ec2-instance.png)
 
 ### Session Manager Connection
-
-![Session Manager](SCREENSHOTS/Session-Manager.png)
+![Session Manager](screenshots/session-manager.png)
 
 ### Fleet Manager - Managed Node
-
-![Fleet Manager](SCREENSHOTS/Fleet-Manager.png)
+![Fleet Manager](screenshots/fleet-manager.png)
 
 ### IAM Role with AmazonSSMManagedInstanceCore Policy
-
-![IAM Role](SCREENSHOTS/IAM-Role.png)
+![IAM Role](screenshots/iam-role.png)
 
 ## Project Outcome
 
